@@ -1,3 +1,6 @@
+
+![Bitaxe_roots_big](https://github.com/user-attachments/assets/8e00b5a7-0150-4e95-b5ca-80e0e34df731)
+
 # Bitaxe Dynamic Temperature OC Controller
 
 **Version:** (Based on script provided on May 7, 2025)
